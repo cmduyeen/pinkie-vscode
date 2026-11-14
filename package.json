@@ -1,0 +1,51 @@
+{
+  "name": "pinkie-for-vscode",
+  "displayName": "Pinkie for VS Code",
+  "publisher": "cmduyeen",
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cmduyeen/pinkie-vscode"
+  },
+  "homepage": "https://github.com/cmduyeen/pinkie-theme",
+  "galleryBanner": {
+    "color": "#ffeff6",
+    "theme": "light"
+  },
+  "description": "An elegant, soothing pastel-pink and soft-white kawaii theme for Visual Studio Code ~ 🌸 ♡",
+  "version": "1.1.0",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "pink",
+    "pastel",
+    "kawaii",
+    "cute",
+    "light",
+    "aesthetic",
+    "soft",
+    "white",
+    "theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pinkie Light",
+        "uiTheme": "vs",
+        "path": "./themes/light-pink-color-theme.json"
+      },
+      {
+        "label": "Pinkie Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-pink-color-theme.json"
+      }
+    ],
+    "configurationDefaults": {
+      "explorer.compactFolders": false
+    }
+  }
+}
