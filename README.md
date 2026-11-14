@@ -29,6 +29,17 @@
 
 ---
 
+<p align="center">
+  <a href="https://github.com/topics/vscode-theme"><img src="https://img.shields.io/badge/topic-vscode--theme-FFEBF3?style=flat-square&logoColor=D44B8B" alt="vscode-theme" /></a>
+  <a href="https://github.com/topics/color-theme"><img src="https://img.shields.io/badge/topic-color--theme-FFEBF3?style=flat-square&logoColor=D44B8B" alt="color-theme" /></a>
+  <a href="https://github.com/topics/kawaii"><img src="https://img.shields.io/badge/topic-kawaii-FFEBF3?style=flat-square&logoColor=D44B8B" alt="kawaii" /></a>
+  <a href="https://github.com/topics/pastel"><img src="https://img.shields.io/badge/topic-pastel-FFEBF3?style=flat-square&logoColor=D44B8B" alt="pastel" /></a>
+  <a href="https://github.com/topics/pink-theme"><img src="https://img.shields.io/badge/topic-pink--theme-FFEBF3?style=flat-square&logoColor=D44B8B" alt="pink-theme" /></a>
+  <a href="https://github.com/topics/light-theme"><img src="https://img.shields.io/badge/topic-light--theme-FFEBF3?style=flat-square&logoColor=D44B8B" alt="light-theme" /></a>
+  <a href="https://github.com/topics/aesthetic"><img src="https://img.shields.io/badge/topic-aesthetic-FFEBF3?style=flat-square&logoColor=D44B8B" alt="aesthetic" /></a>
+</p>
+
+---
 ### ✨ Why Pinkie?
 
 - 🌸 **Gentle Ergonomic Contrast**: Deep charcoal-plum text (`#453B43`) rested against a soft milky background (`#FFFDFD`) completely eliminates harsh blue light and glare.
